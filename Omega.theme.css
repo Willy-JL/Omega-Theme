@@ -560,8 +560,9 @@ code[class*="scrollbar-"] {
 
 
 /* Settings Switches */
-.control-2BBjec > div:not([style*="background-color: rgb(1"]), .bd-switch-checked {
+.control-2BBjec > div:not([style*="background-color: rgb(1"]), .bd-switch input:checked+.bd-switch-body {
     background-color: var(--primary) !important;
+    --switch-color: var(--primary);
 }
 
 .control-2BBjec > div[style*="background-color: rgb(1"] {
