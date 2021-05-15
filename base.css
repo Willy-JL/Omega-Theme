@@ -1,3 +1,4 @@
+/* Home Icon */
 .wrapper-1BJsBx[aria-label=Home] {
 	background-image: linear-gradient(to top right,var(--primaryGradient1) 20%, var(--primaryGradient2) 80%);
 	-webkit-mask-image: var(--homeIconURL);
@@ -167,12 +168,12 @@ nav.container-3w7J-x[aria-label*="(server)"] {
 
 
 /* Create / Discover Servers */
-.circleButtonMask-1_597P {
+.listItem-GuPuDH foreignObject {
     background-color: var(--backgroundDark);
     border-radius: 69px
 }
 
-.circleButtonMask-1_597P:hover {
+.listItem-GuPuDH foreignObject:hover {
     background-image: linear-gradient(to top right,var(--primaryGradient1),var(--primaryGradient2));
     border-radius: 18px
 }
