@@ -46,8 +46,8 @@
 /* EDIT HERE THE THEME OPTIONS! */
 
 :root {
-    --homeIconURL: url(https://i.imgur.com/53vSytz.png);
-    --homeIconSize: 130%;
+    --homeIconURL: url(https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg);
+    --homeIconSize: 80%;
     --backgroundDark: rgb(35, 35, 35);
     --backgroundDarker: rgb(31, 31, 31);
     --backgroundDarkerer: rgb(26, 26, 26);

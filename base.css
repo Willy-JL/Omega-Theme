@@ -6,8 +6,13 @@
 	-webkit-mask-repeat: no-repeat;
 	-webkit-mask-size: var(--homeIconSize)
 }
+
 .wrapper-1BJsBx[aria-label=Home] > .childWrapper-anI2G9 {
 	display: none
+}
+
+.tutorialContainer-2sGCg9 foreignObject {
+    background: transparent!important;
 }
 
 
