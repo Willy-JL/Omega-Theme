@@ -10,6 +10,10 @@
  * @donate https://ko-fi.com/willyjl
 
 **/
+
+/* MAIN IMPORT */
+@import url('https://willy-jl.github.io/Omega-Theme/base.css');
+
 /*
 
  ██████╗ ███╗   ███╗███████╗ ██████╗  █████╗            ██╗    ██╗██╗██╗     ██╗  ██╗   ██╗   ██╗██╗
@@ -27,7 +31,6 @@
 
 /* ADDONS - COMMENT OR UNCOMMENT ( *//* ) TO DISABLE AND ENABLE*/
 
-
 /* Settings Icons */
 @import url('https://codedotspectra.github.io/themes/core/settings-icons.css');
 
@@ -36,9 +39,6 @@
 
 /* Big Profile Pics on Popout */
 @import url('https://xcruxiex.github.io/BBDThemes/MiniThemes/LargeProfilePicture.theme.css');
-
-
-
 
 
 
@@ -68,6 +68,8 @@
     --rs-streaming-color: #643da7;
     --rs-invisible-color: #747f8d;
 }
+
+
 
 
 /* HERE ARE SOME GENERAL GLOBAL COLOR OPTIONS, UNCOMMENT (remove the *//* ) TO ACTIVATE THEM */
@@ -132,8 +134,3 @@
                       `-..__      Made with <3 by WillyJL     __..-'
                            ``-..____                  ____..-''
                                     ``--...____...--''                                  */
-
-
-
-/* MAIN IMPORT */
-@import url('https://raw.githubusercontent.com/Willy-JL/Omega-Theme/main/base.css');
