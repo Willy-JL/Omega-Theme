@@ -645,7 +645,11 @@ code[class*="scrollbar-"] {
 
 /* Friends Active Now */
 [class*="itemCard-"] {
-	background-color: var(--backgroundDarker);
+	background-color: var(--backgroundDarkerer);
+}
+
+[class*="nowPlayingColumn-"] > div {
+	background-color: var(--backgroundDark);
 }
 
 
