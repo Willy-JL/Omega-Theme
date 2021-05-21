@@ -858,3 +858,12 @@ div#dv-mount {
 span.tagID {
     background-color: var(--primary)!important;
 }
+
+
+
+
+
+/* PluginRepo Support */
+div.repoList-9JnAPs {
+    background-color: var(--backgroundDarker)!important;
+}
