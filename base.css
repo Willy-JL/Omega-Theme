@@ -836,6 +836,15 @@ div[badgeid="CurrentGuildBoost"] {
 
 
 
+/* MemberCount Support */
+div#MemberCount {
+    background-color: var(--backgroundDarker)!important;
+}
+
+
+
+
+
 /* DateViever Support */
 div#dv-mount {
     background-color: var(--backgroundDarker)!important;
