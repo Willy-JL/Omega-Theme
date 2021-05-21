@@ -831,3 +831,12 @@ div[badgeid="CurrentGuildBoost"] {
 [class*="fullscreenOnMobile-"], [class*="fullscreenOnMobile-"] > div {
     background-color: var(--backgroundDarker)!important;
 }
+
+
+
+
+
+/* DateViever Support */
+div#dv-mount {
+    background-color: var(--backgroundDarker)!important;
+}
