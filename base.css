@@ -840,3 +840,12 @@ div[badgeid="CurrentGuildBoost"] {
 div#dv-mount {
     background-color: var(--backgroundDarker)!important;
 }
+
+
+
+
+
+/* ChatUserIDsRedux Support */
+span.tagID {
+    background-color: var(--primary)!important;
+}
