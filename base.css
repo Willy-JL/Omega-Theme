@@ -729,7 +729,7 @@ code[class*="scrollbar-"] {
     text-shadow: 0 0 3px #000, 0 0 4px #000!important;
 }
 
-.joinedAtDate-IawR02 > div, .creationDate-CJwdKT > div {
+.joinedAtDate-IawR02 > div, .creationDate-CJwdKT > div, .lastMessageDate-ocEw13 > div {
 	color: #fff!important;
     text-shadow: 0 0 3px #000, 0 0 4px #000, 0 0 5px #000!important;
 }
