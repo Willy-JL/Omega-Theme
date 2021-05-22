@@ -123,7 +123,7 @@ nav.container-3w7J-x[aria-label*="(server)"] {
 
 
 /* Small Buttons (Settings / Call Area) */
-.button-14-BFJ {
+:not(.container-6sXIoE) > div > div > .button-14-BFJ {
 	margin-left: 3px;
 	width:30px;
 	height:28px;
@@ -133,7 +133,7 @@ nav.container-3w7J-x[aria-label*="(server)"] {
 	color: #fff!important
 }
 
-.button-14-BFJ:hover {
+:not(.container-6sXIoE) > div > div > .button-14-BFJ:hover {
 	color: #fff!important;
 	border: 1.5px solid transparent!important;
 	background-color: var(--primary);
